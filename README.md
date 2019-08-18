@@ -3,6 +3,7 @@
 ## Step One - Generate Rails App
 
 1. Create a new rails app using the rails app generator
+
 2. Scaffold the resources shown below using rails generators
 
 *Note: Don't forget to initialize and setup the database as part of your scaffolding process.*
